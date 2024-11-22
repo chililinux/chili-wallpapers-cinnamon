@@ -1,0 +1,10 @@
+[Trigger]
+Type      = Path
+Operation = Install
+Operation = Upgrade
+Target    = usr/share/backgrounds/chililinux/*
+
+[Action]
+Description = ChiliLinux update wallpappers for Cinnamon
+When        = PostTransaction
+Exec        = /usr/share/libalpm/scripts/update-wallpappers-cinnamon.sh

@@ -1,7 +1,7 @@
 # Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
 
-pkgname=chili-pkgname
-pkgdesc="Package template for Chililinux"
+pkgname=chili-wallpapers-cinnamon
+pkgdesc="Set of wallpapers for Cinnamon"
 #depends=('')
 #makedepends=('')
 #optdepends=('')
